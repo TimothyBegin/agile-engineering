@@ -2,6 +2,9 @@
 ## Java Intro
 https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/index.html
 
+## Spring Testing
+http://docs.spring.io/spring/docs/4.3.10.RELEASE/spring-framework-reference/htmlsingle/#testing
+
 ## Groovy Eclipse Update Site
 http://dist.springsource.org/snapshot/GRECLIPSE/e4.7/ 
 
