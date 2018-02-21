@@ -20,6 +20,12 @@ https://cucumber.io/docs/reference
 ## github markdown
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
+## code smells
+https://sourcemaking.com/refactoring/smells
+
+## catalog of refactorings
+https://refactoring.com/catalog/
+
 
 
 
